@@ -1,0 +1,10 @@
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\bin\Debug\projeotomasyon.exe.config
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\bin\Debug\projeotomasyon.exe
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\bin\Debug\projeotomasyon.pdb
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\obj\Debug\projeotomasyon.csprojAssemblyReference.cache
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\obj\Debug\projeotomasyon.Form1.resources
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\obj\Debug\projeotomasyon.Properties.Resources.resources
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\obj\Debug\projeotomasyon.csproj.GenerateResource.cache
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\obj\Debug\projeotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\obj\Debug\projeotomasyon.exe
+C:\Users\MELİKE\Source\Repos\projeotomasyon\projeotomasyon\obj\Debug\projeotomasyon.pdb
