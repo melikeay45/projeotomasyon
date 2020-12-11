@@ -20,6 +20,7 @@ namespace projeotomasyon
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Gitten merhaba");
+            MessageBox.Show("Githubdan merhaba");
         }
     }
 }
